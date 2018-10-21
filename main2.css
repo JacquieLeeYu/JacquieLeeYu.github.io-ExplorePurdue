@@ -1,0 +1,160 @@
+head {
+    background-image: url(Images/StartScreenF.jpg);
+    height: 10%;
+}
+
+
+body {
+    text-align: center;
+    font-size: 31px;
+    font-family: "Bookman Old Style";
+    font-variant: small-caps;
+    margin: 0px;
+    background-position:top
+}
+
+.MainP {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+    background-color: #e5e5e595;
+    border-radius: 70px;
+}
+
+.MainH {
+    font-size: 30px;
+    margin-bottom: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    border-radius: 40px;
+    font-style: italic;
+    background-color: #9e9e9e95;
+}
+
+.StartButton {
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.Q2 {
+    margin: 0px;
+}
+
+.qq2 {
+    margin: 0px;
+    color: white;
+}
+
+.Img2 {
+    position: absolute;
+    left: 370;
+}
+
+.ImgM2 {
+    position: absolute;
+    left: 30;
+    top: 270
+}
+
+.Q2R {
+    position: absolute;
+    top: 360px;
+    left: 240px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q2W1 {
+    position: absolute;
+    top: 560px;
+    left: 250px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q2W2 {
+    position: absolute;
+    top: 410px;
+    left: 305px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Img2A {
+    position: absolute;
+    top: 370;
+    left: 330;
+}
+
+.ImgM2A {
+    position: absolute;
+    top: 370;
+    left: 670;
+}
+
+.Img2Hovde {
+    position: absolute;
+    left: 60;
+}
+
+.Img2Walc {
+    position: absolute;
+    left: 470;
+}
+
+.mark2 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 808px;
+    top: 425px;
+}
+
+.APar2 {
+    border: 0;
+    margin: 0;
+    position: absolute;
+    left: 30px;
+    width: 290;
+    top: 350px;
+    color: white;
+    font-size: 20px;
+}
+
+.A2 {
+    margin: 0px;
+}
+
+.aa2 {
+    margin: 0px;
+    color: white;
+}
+
+.A20 {
+    margin: 0px;
+}
+
+.aa20 {
+    margin: 0px;
+    color: white;
+}
+
+.Next2 {
+    position: absolute;
+    top: 210;
+    left: 820;
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none
+}

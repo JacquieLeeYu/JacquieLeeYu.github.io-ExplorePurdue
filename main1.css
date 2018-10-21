@@ -1,0 +1,44 @@
+head {
+    background-image: url(Images/StartScreenF.jpg);
+    height: 10%;
+}
+
+
+body {
+    text-align: center;
+    font-size: 31px;
+    font-family: "Bookman Old Style";
+    font-variant: small-caps;
+    margin: 0px;
+    background-position:top
+}
+
+.MainP {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+    background-color: #e5e5e595;
+    border-radius: 70px;
+}
+
+.MainH {
+    font-size: 30px;
+    margin-bottom: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    border-radius: 40px;
+    font-style: italic;
+    background-color: #9e9e9e95;
+}
+
+.StartButton {
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+

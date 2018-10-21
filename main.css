@@ -1,0 +1,430 @@
+head {
+    background-image: url(Images/StartScreenF.jpg);
+    height: 10%;
+}
+
+
+body {
+    text-align: center;
+    font-size: 31px;
+    font-family: "Bookman Old Style";
+    font-variant: small-caps;
+    margin: 0px;
+    background-position:top
+}
+
+.MainP {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+    background-color: #e5e5e595;
+    border-radius: 70px;
+}
+
+.MainH {
+    font-size: 30px;
+    margin-bottom: 150px;
+    margin-left: 170px;
+    margin-right: 170px;
+    border-radius: 40px;
+    font-style: italic;
+    background-color: #9e9e9e95;
+}
+
+.StartButton {
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.Q1 {
+    margin: 0px;
+}
+
+.qq1 {
+    margin: 0px;
+    color: white;
+}
+
+.Img1 {
+    text-align: left;
+    margin: 0px;
+}
+
+.ImgM1 {
+    text-align: right;
+}
+
+.A1 {
+    margin: 0px;
+}
+
+.aa1 {
+    margin: 0px;
+    color: white;
+}
+
+.A10 {
+    margin: 0px;
+}
+
+.aa10 {
+    margin: 0px;
+    color: white;
+}
+
+.Q1R {
+    position: absolute;
+    top: 399px;
+    left: 685px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q1W1 {
+    position: absolute;
+    top: 290px;
+    left: 550px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q1W2 {
+    position: absolute;
+    top: 200px;
+    left: 435px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Img1A {
+    position: absolute;
+    left: 30px;
+}
+
+.ImgM1A {
+    position: absolute;
+    left: 200px;
+}
+
+.Img1ABook {
+    position: absolute;
+    left: 500px;
+    top: 109px;
+}
+
+.Img1AState {
+    position: absolute;
+    left: 30px;
+    top: 360px;
+}
+
+.mark1 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 370px;
+    top: 250px;
+}
+
+.mark10 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 370px;
+    top: 250px;
+}
+
+.APar1 {
+    border: 0;
+    margin: 0;
+    position: absolute;
+    left: 350px;
+    width: 550;
+    top: 360px;
+    color: white;
+    font-size: 20px;
+}
+
+.APar10 {
+    border: 0;
+    margin: 0;
+    position: absolute;
+    left: 350px;
+    width: 550;
+    top: 360px;
+    color: white;
+    font-size: 20px;
+}
+
+.Next1 {
+    position: absolute;
+    top: 550;
+    left: 575;
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none
+}
+
+.Q2 {
+    margin: 0px;
+}
+
+.qq2 {
+    margin: 0px;
+    color: white;
+}
+
+.Img2 {
+    position: absolute;
+    left: 370;
+}
+
+.ImgM2 {
+    position: absolute;
+    left: 30;
+    top: 270
+}
+
+.Q2R {
+    position: absolute;
+    top: 360px;
+    left: 240px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q2W1 {
+    position: absolute;
+    top: 560px;
+    left: 250px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q2W2 {
+    position: absolute;
+    top: 410px;
+    left: 305px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Img2A {
+    position: absolute;
+    top: 370;
+    left: 330;
+}
+
+.ImgM2A {
+    position: absolute;
+    top: 370;
+    left: 670;
+}
+
+.Img2Hovde {
+    position: absolute;
+    left: 60;
+}
+
+.Img2Walc {
+    position: absolute;
+    left: 470;
+}
+
+.mark2 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 808px;
+    top: 425px;
+}
+
+.APar2 {
+    border: 0;
+    margin: 0;
+    position: absolute;
+    left: 30px;
+    width: 290;
+    top: 350px;
+    color: white;
+    font-size: 20px;
+}
+
+.A2 {
+    margin: 0px;
+}
+
+.aa2 {
+    margin: 0px;
+    color: white;
+}
+
+.A20 {
+    margin: 0px;
+}
+
+.aa20 {
+    margin: 0px;
+    color: white;
+}
+
+.Next2 {
+    position: absolute;
+    top: 210;
+    left: 820;
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none
+}
+
+.Q3 {
+    margin: 0px;
+}
+
+.qq3 {
+    margin: 0px;
+    color: white;
+}
+
+.Img3 {
+    position: absolute;
+    left: 450;
+}
+
+.ImgM3 {
+    position: absolute;
+    left: 30;
+    top: 130
+}
+
+.Q3R {
+    position: absolute;
+    top: 300px;
+    left: 135px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q3W1 {
+    position: absolute;
+    top: 385px;
+    left: 200px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Q3W2 {
+    position: absolute;
+    top: 170px;
+    left: 214px;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Img3A {
+    position: absolute;
+    top: 370;
+    left: 330;
+}
+
+.ImgM3A {
+    position: absolute;
+    top: 370;
+    left: 670;
+}
+
+.Img3CoRecA {
+    position: absolute;
+    left: 60;
+}
+
+.Img3CoRecB {
+    position: absolute;
+    left: 470;
+}
+
+.mark31 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 735px;
+    top: 480px;
+}
+
+.mark30 {
+    margin: 0;
+    border: 0;
+    color: red;
+    text-decoration: none;
+    font-weight: bolder;
+    position: absolute;
+    left: 735px;
+    top: 480px;
+}
+
+.APar3 {
+    border: 0;
+    margin: 0;
+    position: absolute;
+    left: 30px;
+    width: 290;
+    top: 350px;
+    color: white;
+    font-size: 20px;
+}
+
+.A3 {
+    margin: 0px;
+}
+
+.aa3 {
+    margin: 0px;
+    color: white;
+}
+
+.A30 {
+    margin: 0px;
+}
+
+.aa30 {
+    margin: 0px;
+    color: white;
+}
+
+.Next3 {
+    position: absolute;
+    top: 210;
+    left: 820;
+    background-color: #e5e5e595;
+    border-radius: 10px;
+    text-decoration: none
+}
+
+
+
